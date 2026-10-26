@@ -1,0 +1,10 @@
+{
+  "_not": "TV In reklam ayarları. Açıklama: C:\\dev\\anytv\\store\\reklam_ayari.md",
+  "banner": true,
+  "acilis": true,
+  "acilisAraligiDk": 30,
+  "acilisBeklemeMs": 3500,
+  "gecis": false,
+  "gecisAraligiDk": 4,
+  "degerlendirme": true
+}
