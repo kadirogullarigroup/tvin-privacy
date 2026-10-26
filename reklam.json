@@ -3,10 +3,11 @@
   "enAzSurum": 1,
   "ilkReklamSaat": 24,
   "banner": true,
-  "acilis": true,
+  "acilis": false,
   "acilisAraligiDk": 30,
   "acilisBeklemeMs": 3500,
-  "gecis": false,
+  "gecis": true,
   "gecisAraligiDk": 4,
+  "gecisIcinTus": 8,
   "degerlendirme": true
 }
