@@ -1,0 +1,13 @@
+{
+  "_not": "Konforlu Klima Kumandası reklam ayarları. Açıklama: C:\\dev\\konforlu-klima\\store\\reklam_ayari.md",
+  "enAzSurum": 1,
+  "ilkReklamSaat": 24,
+  "banner": true,
+  "acilis": false,
+  "acilisAraligiDk": 30,
+  "acilisBeklemeMs": 3500,
+  "gecis": true,
+  "gecisAraligiDk": 4,
+  "gecisIcinTus": 8,
+  "degerlendirme": true
+}
