@@ -1,0 +1,13 @@
+{
+  "_not": "Drone Hava Radarı reklam ayarları (uygulama 1.0.2+). Değiştirip GitHub'a gönderince 1-2 dk içinde geçerli olur. Alanlar: lib/services/ad_config.dart",
+  "banner": true,
+  "acilis": true,
+  "ilkReklamSaat": 24,
+  "acilisAraligiDk": 240,
+  "acilisGunluk": 2,
+  "acilisBeklemeMs": 3500,
+  "donusDk": 30,
+  "gecis": true,
+  "gecisAraligiDk": 15,
+  "gecisGunluk": 4
+}
