@@ -1,0 +1,13 @@
+{
+  "_not": "Gizli Kamera Dedektörü reklam ayarları. Alanlar: C:\dev\gizli-kamera-dedektoru\app\src\main\java\com\gizlikamera\detector\ads\RemoteConfig.kt",
+  "enAzSurum": 0,
+  "ilkReklamSaat": 24,
+  "banner": true,
+  "acilis": false,
+  "acilisAraligiDk": 30,
+  "acilisBeklemeMs": 3500,
+  "gecis": true,
+  "gecisAraligiDk": 4,
+  "gecisIcinIslem": 3,
+  "degerlendirme": true
+}
