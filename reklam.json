@@ -1,13 +1,13 @@
 {
   "_not": "TV In reklam ayarları. Açıklama: C:\\dev\\anytv\\store\\reklam_ayari.md",
   "enAzSurum": 2,
-  "ilkReklamSaat": 24,
+  "ilkReklamSaat": 1,
   "banner": true,
   "acilis": false,
   "acilisAraligiDk": 30,
   "acilisBeklemeMs": 3500,
   "gecis": true,
-  "gecisAraligiDk": 4,
-  "gecisIcinTus": 8,
+  "gecisAraligiDk": 1,
+  "gecisIcinTus": 5,
   "degerlendirme": true
 }

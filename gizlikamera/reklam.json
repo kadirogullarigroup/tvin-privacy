@@ -1,13 +1,13 @@
 {
   "_not": "Gizli Kamera Dedektoru reklam ayarlari. Alanlar: gizli-kamera-dedektoru/app/.../ads/RemoteConfig.kt",
   "enAzSurum": 0,
-  "ilkReklamSaat": 24,
+  "ilkReklamSaat": 1,
   "banner": true,
   "acilis": false,
   "acilisAraligiDk": 30,
   "acilisBeklemeMs": 3500,
   "gecis": true,
-  "gecisAraligiDk": 4,
+  "gecisAraligiDk": 1,
   "gecisIcinIslem": 3,
   "degerlendirme": true
 }
